@@ -88173,7 +88173,7 @@ const questions = [
     ],
     "correctAnswer": "By observing the effects of their strong gravitational fields on nearby stars and gas, such as the emission of X-rays from accreting material."
   ,"explanation":"To follow: wait for new app release/updates"
-  },
+  }
   ];
 
 // Route to fetch questions
